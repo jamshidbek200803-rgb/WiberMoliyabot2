@@ -5,3 +5,7 @@ aiohttp
 apscheduler
 google-generativeai
 pytz
+pandas
+openpyxl
+httpx
+beautifulsoup4
