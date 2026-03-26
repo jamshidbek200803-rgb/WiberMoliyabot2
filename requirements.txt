@@ -1,0 +1,7 @@
+aiogram
+python-dotenv
+matplotlib
+aiohttp
+apscheduler
+google-generativeai
+pytz
